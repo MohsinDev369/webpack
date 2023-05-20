@@ -12,4 +12,6 @@ or
 yarn build
 ```
 
-to bundle your application
+to bundle your application 
+
+*Compare bundle sizes 
