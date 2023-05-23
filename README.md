@@ -14,4 +14,4 @@ yarn build
 
 to bundle your application 
 
-*Compare bundle sizes 
+
